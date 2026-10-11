@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- carried over verbatim from the original artifact's <style> block ---- */
+:root { color-scheme: light; }
+html, body { margin: 0; padding: 0; background: #EDE9DC; }
+#root { min-height: 100vh; }
